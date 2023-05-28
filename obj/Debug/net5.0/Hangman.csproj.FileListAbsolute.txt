@@ -1,0 +1,16 @@
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\Hangman.exe
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\Hangman.deps.json
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\Hangman.runtimeconfig.json
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\Hangman.runtimeconfig.dev.json
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\Hangman.dll
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\ref\Hangman.dll
+C:\Users\richa\source\repos\Hangman\bin\Debug\net5.0\Hangman.pdb
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.AssemblyInfo.cs
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.dll
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\ref\Hangman.dll
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.pdb
+C:\Users\richa\source\repos\Hangman\obj\Debug\net5.0\Hangman.genruntimeconfig.cache
